@@ -1,10 +1,7 @@
 ## Hello, I'm [Faisal Rifky Nugraha!](https://www.linkedin.com/in/faisal-rifky-922ba6283/) 
 
 ### About Me 🚀
-🌱 Saya seorang **Mahasiswa, Saya Mempunyai Pengalaman menjadi Junior Web Developmet [Digitalen](https://digitalent.kominfo.go.id/#), Memulai Dasar Pemrograman untuk Menjadi Pengembang
-Software** di [Dicoding](https://www.dicoding.com/).<br>
-
-📕 Saya memiliki beberapa Sertifikat kopetensi akademik maupun materi dengan dibekali [sertifikasi](https://drive.google.com/drive/folders/16AZ56M2qw-vH3H9C6djUfP0Yqyp_AQFQ?usp=sharing).<br>
+🌱 Saya seorang **Mahasiswa aktif yang sedang menempuh S1 di program studi Sistem Informasi, saya memiliki minat yang kuat untuk menjadi seorang programmer dan pengembang. Saat ini, saya memiliki pengetahuan yang tidak begitu luas dalam beberapa bahasa pemrograman PHP, Flutter, dan kotlin Fokus utama saya adalah pengembangan web dan aplikasi mobile.[Sertfikat](https://drive.google.com/drive/folders/16AZ56M2qw-vH3H9C6djUfP0Yqyp_AQFQ?usp=sharing).<br>
 
 ### Github Statistic
 <p align="left">
@@ -13,5 +10,3 @@ Software** di [Dicoding](https://www.dicoding.com/).<br>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FaisalRifkyN&layout=compact&layout=compact&theme=algolia"/>
 </a>
 </p>
-
-😄 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/faisal-rifky-922ba6283/) ku ya.
